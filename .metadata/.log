@@ -1,0 +1,12 @@
+!SESSION 2018-01-04 13:46:34.012 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.7.0_80
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.ui 2 2 2018-01-04 13:49:53.451
+!MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.wst.xml.ui, propertyPage: org.eclipse.wst.xml.ui.propertyPage.project.validation)
+
+!ENTRY org.eclipse.core.jobs 2 2 2018-01-04 13:49:54.389
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.maven.ide.eclipse.internal.index.IndexUpdaterJob
